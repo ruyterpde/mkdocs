@@ -4,7 +4,15 @@ External links used across the documentation, sorted alphabetically by link text
 
 This list is generated automatically, so it may be a little messy.
 
-## M
+## C
 
-- [mkdocs.org](https://www.mkdocs.org)
+- [Contact](https://ruyter.org/about/contact)
+
+## L
+
+- [Legal](https://ruyter.org/about/legal)
+
+## P
+
+- [Privacy](https://ruyter.org/about/privacy)
 
