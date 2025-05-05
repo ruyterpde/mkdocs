@@ -1,2 +1,13 @@
-- name: Install dependencies
-  run: pip install -r requirements.txt
+name: Deploy Workflow
+
+on: push
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
