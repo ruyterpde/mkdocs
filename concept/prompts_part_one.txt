@@ -1,0 +1,57 @@
+Generate structured MkDocs-compatible Markdown document, ensuring all sections of the provided template co-pilot_part_one.md are included.
+Generate the entire MkDocs-compatible Markdown document in a single response without truncation.
+Ensure all sections of the provided template are generated together in their entirety, following the sequential structure of co-pilot.md
+Generate the full structured Markdown document including front matter, sections, examples until Troubleshooting is included.
+The subject is:
+
+[ SUBJECT]
+
+The output should be compatible with the MkDocs-Material environment, utilizing its available features and options.
+You can use:
+
+features:
+- content.code.annotate
+- content.code.copy
+- content.links.external
+- navigation.indexes
+- navigation.path
+- navigation.top
+- search.suggest
+- search.highlights
+- content.tab.link
+
+markdown_extensions:
+- abbr
+- attr_list
+- admonition
+- footnotes
+- pymdownx.arithmatex:
+    generic: true
+- pymdownx.caret
+- pymdownx.critic
+- pymdownx.details
+- pymdownx.emoji:
+    emoji_index: !!python/name:material.extensions.emoji.twemoji
+    emoji_generator: !!python/name:material.extensions.emoji.to_svg
+- pymdownx.highlight:
+    anchor_linenums: true
+    line_spans: __span
+    pygments_lang_class: true
+- pymdownx.inlinehilite
+- pymdownx.keys
+- pymdownx.mark
+- pymdownx.snippets:
+    auto_append:
+    - includes/abbreviations.md
+- pymdownx.superfences:
+    custom_fences:
+    - name: mermaid
+        class: mermaid
+        format: !!python/name:pymdownx.superfences.fence_code_format
+- pymdownx.tabbed:
+    alternate_style: true
+- pymdownx.tilde
+
+Ensure proper YAML front matter and section headings are included for clarity and ease of navigation.
+Format links, images, and tables correctly to maintain consistency with MkDocs-Material styling.
+The document should follow best practices for readability and accessibility.
