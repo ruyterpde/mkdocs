@@ -68,7 +68,14 @@ URL: https://dms.ruyter.org / https://ruyterpde.github.io/mkdocs
       ```
       *Ensure the Material theme is listed in the output.*
 
-### 4. Create a New MkDocs Project
+### 4. Install Material Images
+   1. Install the Material images:
+      ```bash
+      pip install "mkdocs-material[imaging]"
+      ```
+      {: .code-copy }
+
+### 5. Create a New MkDocs Project
    1. Navigate to your desired directory:
       ```bash
       cd path\to\your\directory
@@ -82,7 +89,7 @@ URL: https://dms.ruyter.org / https://ruyterpde.github.io/mkdocs
       cd my-project
       ```
 
-### 5. Configure MkDocs Material
+### 6. Configure MkDocs Material
    1. Open the [mkdocs.yml] file in a text editor.
    2. Update the theme section:
       ```yaml
@@ -91,7 +98,7 @@ URL: https://dms.ruyter.org / https://ruyterpde.github.io/mkdocs
       ```
    3. Save the file.
 
-### 6. Serve the Documentation Locally
+### 7. Serve the Documentation Locally
    1. Run the following command:
       ```bash
       mkdocs serve
@@ -116,6 +123,15 @@ URL: https://dms.ruyter.org / https://ruyterpde.github.io/mkdocs
      ```bash
      mkdocs serve
      ```
+   - **Update Pip**:
+     ```bash
+     python.exe -m pip install --upgrade pip
+     ```
+   - **Update Material**:
+     ```bash
+     pip install --upgrade --force-reinstall mkdocs-material
+     ```
+
 
 ## Resources
    - [MkDocs Official Documentation](https://www.mkdocs.org/){:target="_blank"}
@@ -130,10 +146,14 @@ URL: https://dms.ruyter.org / https://ruyterpde.github.io/mkdocs
      **Resolution**: Verify the `theme` section in [mkdocs.yml] is correctly configured.
    - **Issue**: Local server not accessible.
      **Resolution**: Check if the port `8000` is open and not blocked by a firewall.
-   - **Issue**: ERROR   -  "cairosvg" Python module is installed, but it crashed.
-     ![cairo](../../assets/images/cairo_error.png)
+   - **Issue**: ERROR   -  "cairosvg" Python module is installed, but it crashed.  
+
+     ![cairo](../../assets/images/cairo_error.png)  
+     
      **Cause**: On Windows, Python packages like cairosvg need the Cairo DLLs to be installed separately. Here's how to fix it, you need to install Cairo for Windows.
-     **Resolution**: Install MSYS2: Download and install from [MSYS2](https://www.msys2.org/){:target="_blank"}. Open the MSYS2 terminal (not cmd, not PowerShell). Run these commands inside MSYS2:
+     **Resolution**: Install MSYS2: Download and install from [MSYS2](https://www.msys2.org/){:target="_blank"}.  
+     Open the MSYS2 terminal (not cmd, not PowerShell).  
+     Run these commands inside MSYS2:
 
      ``` title="In MSYS2 Terminal" linenums="1"
      pacman -Sy

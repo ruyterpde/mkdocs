@@ -67,9 +67,10 @@ URL: https://dms.ruyter.org / https://ruyterpde.github.io/mkdocs
      - Add a **Gauge Card** to visually represent the number of lights turned on.
 
 ### Resources
-   - [Home Assistant Template Sensors](https://www.home-assistant.io/integrations/template/)
-   - [Home Assistant Light Integration](https://www.home-assistant.io/integrations/light/)
-   - [Dashboard Customization](https://www.home-assistant.io/lovelace/)
+   - [Templates and Custom Sensors in Home Assistant](https://www.youtube.com/watch?v=cdz32TLu_gw){:target="_blank"}
+   - [Home Assistant Template Sensors](https://www.home-assistant.io/integrations/template/){:target="_blank"}
+   - [Home Assistant Light Integration](https://www.home-assistant.io/integrations/light/){:target="_blank"}
+   - [Dashboard Customization](https://www.home-assistant.io/lovelace/){:target="_blank"}
 
 ### Troubleshooting
    - **Issue**: The sensor always shows `0`.  

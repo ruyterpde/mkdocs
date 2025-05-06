@@ -8,6 +8,7 @@ This little corner of the internet didn’t come together in a vacuum. It’s bu
 
 - Here’s a non-exhaustive list of the stuff (and people) that helped make this site—and the ideas in it—possible:
 
+    - https://www.youtube.com/@Frenck
     - https://www.youtube.com/@james-willett
     - https://www.youtube.com/@SmartHomeJunkie
 
