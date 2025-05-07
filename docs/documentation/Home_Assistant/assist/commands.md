@@ -61,10 +61,10 @@ Low-cost ESP-based devices (like ESP32s with microphones and speakers) can funct
 
 ## Examples
 Adding a custom sentence to trigger an automation:
-[Adding a custom sentence](https://www.home-assistant.io/voice_control/custom_sentences){:target="_blank"}
+[Adding a custom sentence](https://www.home-assistant.io/voice_control/custom_sentences)
 
 Customizing responses:
-[Customizing responses](https://www.home-assistant.io/voice_control/custom_sentences_yaml#customizing-responses){:target="_blank"}
+[Customizing responses](https://www.home-assistant.io/voice_control/custom_sentences_yaml#customizing-responses)
 
 Audio:
 Instead of the build-in speaker of the Atom Echo, you can use your own Media Player as output device.  
@@ -85,9 +85,9 @@ You also need to configure your device to be able to: Allow the device to perfor
 (last but not least, turn of the volume of the Atom Echo itself).
 
 ## Resources
-- [Home Assistant Official Voice Documentation](https://www.home-assistant.io/voice_control/){:target="_blank"}
-- [ESPHome Documentation](https://esphome.io/){:target="_blank"}
-- [OpenWakeWord GitHub](https://github.com/openwakeword){:target="_blank"}
+- [Home Assistant Official Voice Documentation](https://www.home-assistant.io/voice_control/)
+- [ESPHome Documentation](https://esphome.io/)
+- [OpenWakeWord GitHub](https://github.com/openwakeword)
 
 ## Troubleshooting
 !!! failure

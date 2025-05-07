@@ -70,9 +70,9 @@ automation:
 ```
 
 ## Resources
-- [HomeWizard P1 Meter](https://www.homewizard.com/nl/p1-meter){:target="_blank"}
-- [HomeWizard P1 API Documentation](https://homewizard.com/api){:target="_blank"}
-- [Home Assistant Integration Guide](https://www.home-assistant.io/integrations/homewizard/){:target="_blank"}
+- [HomeWizard P1 Meter](https://www.homewizard.com/nl/p1-meter)
+- [HomeWizard P1 API Documentation](https://homewizard.com/api)
+- [Home Assistant Integration Guide](https://www.home-assistant.io/integrations/homewizard/)
 
 ## Troubleshooting
 ### Issue: Data Not Appearing in Home Assistant

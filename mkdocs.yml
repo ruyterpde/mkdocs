@@ -39,14 +39,18 @@ theme:
 
   language: en
 
-# Removed invalid property 'draft_docs'
-
 plugins:
+  - blog
   - mkdocs-video:
       is_video: True
       video_autoplay: False
   - search
   - social
+  - rss:
+      match_path: "docs/blog/posts/.*"
+      date_from_meta:
+        as_creation: date.created
+        as_update: date.updated
 
 extra:
   social:

@@ -81,11 +81,11 @@ URL: https://dms.ruyter.org / https://ruyterpde.github.io/mkdocs
      - If the threshold is set to 20%, the sensor might display: `sensor.device_1, sensor.device_2`.
 
 ### Resources
-   - [Templates and Custom Sensors in Home Assistant](https://www.youtube.com/watch?v=cdz32TLu_gw){:target="_blank"}
-   - [Home Assistant Template Sensors](https://www.home-assistant.io/integrations/template/){:target="_blank"}
-   - [Helpers in Home Assistant](https://www.home-assistant.io/docs/configuration/helpers/){:target="_blank"}
-   - [Material Design Icons](https://pictogrammers.com/library/mdi){:target="_blank"}
-   - [Online UUID Generator Tool](https://www.uuidgenerator.net){:target="_blank"}
+   - [Templates and Custom Sensors in Home Assistant](https://www.youtube.com/watch?v=cdz32TLu_gw)
+   - [Home Assistant Template Sensors](https://www.home-assistant.io/integrations/template/)
+   - [Helpers in Home Assistant](https://www.home-assistant.io/docs/configuration/helpers/)
+   - [Material Design Icons](https://pictogrammers.com/library/mdi)
+   - [Online UUID Generator Tool](https://www.uuidgenerator.net)
 
 ### Troubleshooting
    - **Issue**: The sensor does not display any devices.  

@@ -81,8 +81,8 @@ entities:
 - Extensions: Support for custom cards and third-party plugins
 
 ### Resources
-- [Home Assistant Dashboard Documentation](https://www.home-assistant.io/lovelace/){:target="_blank"}
-- [Community Themes and Custom Cards](https://community.home-assistant.io/c/themes){:target="_blank"}
+- [Home Assistant Dashboard Documentation](https://www.home-assistant.io/lovelace/)
+- [Community Themes and Custom Cards](https://community.home-assistant.io/c/themes)
 
 ### Troubleshooting
 | Issue                 | Resolution                                        |

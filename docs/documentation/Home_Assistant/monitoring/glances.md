@@ -82,9 +82,9 @@ URL: https://dms.ruyter.org / https://ruyterpde.github.io/mkdocs
      {: .code-copy }
 
 ## Resources
-   - [Glances Official Documentation](https://nicolargo.github.io/glances/){:target="_blank"}
-   - [Home Assistant Documentation](https://www.home-assistant.io/){:target="_blank"}
-   - [Glances MQTT Integration](https://nicolargo.github.io/glances/mqtt.html){:target="_blank"}
+   - [Glances Official Documentation](https://nicolargo.github.io/glances/)
+   - [Home Assistant Documentation](https://www.home-assistant.io/)
+   - [Glances MQTT Integration](https://nicolargo.github.io/glances/mqtt.html)
 
 ## Troubleshooting
    - **Issue**: Glances sensors not updating.

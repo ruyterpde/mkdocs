@@ -35,7 +35,7 @@ The Sonoff Zigbee 3.0 USB Dongle Plus-E V2 is a versatile Zigbee coordinator bas
 
 ### Steps
 1. **Download Firmware and Tools**:
-   - Visit the [Zigbee Firmware Repository](https://github.com/Koenkk/Z-Stack-firmware){:target="_blank"} to download the Ember firmware and flashing tool.
+   - Visit the [Zigbee Firmware Repository](https://github.com/Koenkk/Z-Stack-firmware) to download the Ember firmware and flashing tool.
    - Install any required USB drivers.
 
 2. **Prepare the USB Dongle**:
@@ -83,7 +83,7 @@ python3 flash.py --port /dev/ttyUSB0 --firmware ember_firmware.bin
 ```
 
 #### Another approach
-- [How To Update the Sonoff Dongle E to Ember firmware](https://www.youtube.com/watch?v=x1QeNPi6tK8){:target="_blank"}
+- [How To Update the Sonoff Dongle E to Ember firmware](https://www.youtube.com/watch?v=x1QeNPi6tK8)
 
 Configuration in Home Assistant:
 ```
@@ -93,12 +93,12 @@ Configuration in Home Assistant:
 ```
 
 ### Resources
-- [Sonoff Zigbee 3.0 USB Dongle Documentation](https://sonoff.tech/){:target="_blank"}
-- [Zigbee2MQTT Setup Guide](https://www.zigbee2mqtt.io/){:target="_blank"}
-- [Home Assistant ZHA Integration](https://www.home-assistant.io/integrations/zha/){:target="_blank"}
-- [Sonoff Zigbee 3.0 USB Dongle Plus-E V2](https://www.sonoff.nl/a-69235043/zigbee-producten/sonoff-zigbee-3-0-dongle-plus-e/#description){:target="_blank"}
-- [Sonoff Zigbee 3.0 USB Dongle Firmware Download](https://github.com/darkxst/silabs-firmware-builder/tree/main/firmware_builds/zbdonglee){:target="_blank"}
-- [Sonoff Zigbee 3.0 USB Dongle Firmware Flasher](https://darkxst.github.io/silabs-firmware-builder/){:target="_blank"}
+- [Sonoff Zigbee 3.0 USB Dongle Documentation](https://sonoff.tech/)
+- [Zigbee2MQTT Setup Guide](https://www.zigbee2mqtt.io/)
+- [Home Assistant ZHA Integration](https://www.home-assistant.io/integrations/zha/)
+- [Sonoff Zigbee 3.0 USB Dongle Plus-E V2](https://www.sonoff.nl/a-69235043/zigbee-producten/sonoff-zigbee-3-0-dongle-plus-e/#description)
+- [Sonoff Zigbee 3.0 USB Dongle Firmware Download](https://github.com/darkxst/silabs-firmware-builder/tree/main/firmware_builds/zbdonglee)
+- [Sonoff Zigbee 3.0 USB Dongle Firmware Flasher](https://darkxst.github.io/silabs-firmware-builder/)
 
 ### Troubleshooting
 #### Issue: Device Not Recognized

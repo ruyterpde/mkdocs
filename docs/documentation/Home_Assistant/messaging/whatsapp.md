@@ -19,7 +19,7 @@ Before starting, ensure you have the following:
 - A working Home Assistant installation  
 - An internet connection  
 - A WhatsApp account  
-- Access to Call Me Bot ([CallMeBot Website](https://www.callmebot.com/){:target="_blank"})  
+- Access to Call Me Bot ([CallMeBot Website](https://www.callmebot.com/))  
 
 ## Step-by-Step Guide  
 

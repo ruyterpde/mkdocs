@@ -35,7 +35,7 @@ URL: https://dms.ruyter.org / https://ruyterpde.github.io/mkdocs
 ## Steps
 
 ### 1. Install Python
-   1. Download Python from the [Official Python website](https://www.python.org/downloads/){:target="_blank"}.
+   1. Download Python from the [Official Python website](https://www.python.org/downloads/).
    2. Run the installer and ensure the **"Add Python to PATH"** option is checked.
    3. Verify the installation:
       ```bash
@@ -134,10 +134,10 @@ URL: https://dms.ruyter.org / https://ruyterpde.github.io/mkdocs
 
 
 ## Resources
-   - [MkDocs Official Documentation](https://www.mkdocs.org/){:target="_blank"}
-   - [MkDocs Material Documentation](https://squidfunk.github.io/mkdocs-material/){:target="_blank"}
-   - [Python Downloads](https://www.python.org/downloads/){:target="_blank"}
-   - [Python Markdown](https://python-markdown.github.io/){:target="_blank"}
+   - [MkDocs Official Documentation](https://www.mkdocs.org/)
+   - [MkDocs Material Documentation](https://squidfunk.github.io/mkdocs-material/)
+   - [Python Downloads](https://www.python.org/downloads/)
+   - [Python Markdown](https://python-markdown.github.io/)
 
 ## Troubleshooting
    - **Issue**: `mkdocs` command not found.
@@ -151,7 +151,7 @@ URL: https://dms.ruyter.org / https://ruyterpde.github.io/mkdocs
      ![cairo](../../assets/images/cairo_error.png)  
      
      **Cause**: On Windows, Python packages like cairosvg need the Cairo DLLs to be installed separately. Here's how to fix it, you need to install Cairo for Windows.
-     **Resolution**: Install MSYS2: Download and install from [MSYS2](https://www.msys2.org/){:target="_blank"}.  
+     **Resolution**: Install MSYS2: Download and install from [MSYS2](https://www.msys2.org/).  
      Open the MSYS2 terminal (not cmd, not PowerShell).  
      Run these commands inside MSYS2:
 

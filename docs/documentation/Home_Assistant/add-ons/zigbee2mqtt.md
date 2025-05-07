@@ -70,9 +70,9 @@ zigbee:
 ```
 
 ### Resources
-- [Official Zigbee2MQTT Documentation](https://www.zigbee2mqtt.io/){:target="_blank"}
-- [Home Assistant Add-ons Guide](https://www.home-assistant.io/addons/){:target="_blank"}
-- [Installation Zigbee2MQTT on Github](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt#installation){:target="_blank"}
+- [Official Zigbee2MQTT Documentation](https://www.zigbee2mqtt.io/)
+- [Home Assistant Add-ons Guide](https://www.home-assistant.io/addons/)
+- [Installation Zigbee2MQTT on Github](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt#installation)
 
 ### Troubleshooting
 #### Issue: Zigbee2MQTT Not Connecting

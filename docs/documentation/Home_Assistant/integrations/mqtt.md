@@ -67,8 +67,8 @@ mqtt:
 ```
 
 ### Resources
-- [Home Assistant MQTT Documentation](https://www.home-assistant.io/integrations/mqtt/){:target="_blank"}
-- [Mosquitto MQTT Broker](https://mosquitto.org/){:target="_blank"}
+- [Home Assistant MQTT Documentation](https://www.home-assistant.io/integrations/mqtt/)
+- [Mosquitto MQTT Broker](https://mosquitto.org/)
 
 ### Troubleshooting
 **Issue:** MQTT broker does not start.

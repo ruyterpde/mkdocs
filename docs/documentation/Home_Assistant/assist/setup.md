@@ -63,15 +63,15 @@ Assist Local uses Whisper for speech recognition and Piper for text-to-speech. T
   ```
 
 ### Examples
-- [$13 voice assistant for Home Assistant](https://www.home-assistant.io/voice_control/thirteen-usd-voice-remote/){:target="_blank"}
-- [Home Assistant Pipeline](https://www.youtube.com/watch?v=mVAwd_0Fheg){:target="_blank"}
+- [$13 voice assistant for Home Assistant](https://www.home-assistant.io/voice_control/thirteen-usd-voice-remote/)
+- [Home Assistant Pipeline](https://www.youtube.com/watch?v=mVAwd_0Fheg)
 
   ![type:video](../../../assets/videos/ok_nabu.mp4)
 
 ### Resources
-- [Wyoming](https://www.home-assistant.io/integrations/wyoming/){:target="_blank"}
-- [m5stack-atom-echo.yaml](https://github.com/esphome/wake-word-voice-assistants/blob/main/m5stack-atom-echo/m5stack-atom-echo.yaml){:target="_blank"}
-- [Getting started - Local Assist](https://www.home-assistant.io/voice_control/voice_remote_local_assistant/){:target="_blank"}
+- [Wyoming](https://www.home-assistant.io/integrations/wyoming/)
+- [m5stack-atom-echo.yaml](https://github.com/esphome/wake-word-voice-assistants/blob/main/m5stack-atom-echo/m5stack-atom-echo.yaml)
+- [Getting started - Local Assist](https://www.home-assistant.io/voice_control/voice_remote_local_assistant/)
 
 ### Troubleshooting
 - **Issue**: Audio output is not working.  
@@ -81,7 +81,7 @@ Assist Local uses Whisper for speech recognition and Piper for text-to-speech. T
 
 See also:  
 
-- [Service exited with code 256 (by signal 4) on x86_64](https://github.com/home-assistant/addons/issues/3035){:target="_blank"}
+- [Service exited with code 256 (by signal 4) on x86_64](https://github.com/home-assistant/addons/issues/3035)
 
 !!! question
     Is Speech-to-Phrase a possibility to use instead of Whisper

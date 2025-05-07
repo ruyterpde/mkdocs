@@ -136,9 +136,9 @@ URL: https://dms.ruyter.org / https://ruyterpde.github.io/mkdocs
      {: .code-copy }
 
 ## Resources
-   - [MkDocs Official Documentation](https://www.mkdocs.org/){:target="_blank"}
-   - [MkDocs Material Documentation](https://squidfunk.github.io/mkdocs-material/){:target="_blank"}
-   - [Pymdown Extensions Documentation](https://facelessuser.github.io/pymdown-extensions/){:target="_blank"}
+   - [MkDocs Official Documentation](https://www.mkdocs.org/)
+   - [MkDocs Material Documentation](https://squidfunk.github.io/mkdocs-material/)
+   - [Pymdown Extensions Documentation](https://facelessuser.github.io/pymdown-extensions/)
 
 ## Troubleshooting
    - **Issue**: Features not applied.
