@@ -24,6 +24,7 @@ This list is generated automatically, so it may be a little messy.
 ## E
 
 - [ESPHome Documentation](https://esphome.io/)
+- [Example Waste Collection APIs](https://example.com/apis)
 - [Experta Documentation](https://github.com/cordalace/experta)
 
 ## F
