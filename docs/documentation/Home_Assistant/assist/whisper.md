@@ -64,7 +64,11 @@ This guide helps you install [OpenAI Whisper](https://github.com/openai/whisper)
    pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
    ```
 
+<<<<<<< HEAD
    You can replace cpu with cu118 for CUDA 11.8 if you have a compatible NVIDIA GPU.
+=======
+    You can replace cpu with cu118 for CUDA 11.8 if you have a compatible NVIDIA GPU.
+>>>>>>> 803483de19e089041654b9596233bb7b0444ac00
 
 4. Install and Run Wyoming-Whisper
    Clone and install Wyoming-Whisper:
@@ -164,8 +168,12 @@ ___
 Run this in an elevated CMD to allow Home Assistant to reach port 10300:
 
 ```bash
+<<<<<<< HEAD
 netsh advfirewall firewall add rule name="Whisper Wyoming" dir=in action=allow protocol=TCP localport=10300 profile=private,domain
 
+=======
+netsh advfirewall firewall add rule name="Whisper Wyoming" dir=in action=allow protocol=TCP localport=10300
+>>>>>>> 803483de19e089041654b9596233bb7b0444ac00
 ```
 
 ### Commands
@@ -211,10 +219,13 @@ pause
 ### Troubleshooting
     Issues and resolutions.
 
+<<<<<<< HEAD
 ### Choices
 And to make it even more complex: [See my Docker CE adventure](../../Local_n8n/docker.md)
 Plan is to run Whisper from a Docker Container
 
+=======
+>>>>>>> 803483de19e089041654b9596233bb7b0444ac00
 ---
 
 *Generated using AI*    
