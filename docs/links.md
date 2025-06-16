@@ -130,6 +130,7 @@ This list is generated automatically, so it may be a little messy.
 
 ## R
 
+- [Ready-Made Projects — ESPHome](https://esphome.io/projects/)
 - [Rufus](https://rufus.ie/)
 
 ## S
