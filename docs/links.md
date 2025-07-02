@@ -68,6 +68,7 @@ This list is generated automatically, so it may be a little messy.
 - [Home Assistant Pipeline](https://www.youtube.com/watch?v=mVAwd_0Fheg)
 - [Home Assistant Template Sensors](https://www.home-assistant.io/integrations/template/)
 - [Home Assistant ZHA Integration](https://www.home-assistant.io/integrations/zha/)
+- [home-assistant/esphome-firmware](https://git.sudo.is/home-assistant/esphome-firmware/src/branch/main/voice-assistant/m5stack-atom-echo.yaml)
 - [HomeWizard P1 API Documentation](https://homewizard.com/api)
 - [HomeWizard P1 Meter](https://www.homewizard.com/nl/p1-meter)
 - [Hosting n8n](https://docs.n8n.io/hosting/)
@@ -80,6 +81,7 @@ This list is generated automatically, so it may be a little messy.
 - [Install Docker](https://learn.microsoft.com/en-us/virtualization/windowscontainers/manage-docker/configure-docker-daemon#install-docker)
 - [Install HAOS without UEFI](https://www.reddit.com/r/homeassistant/comments/1d7fy79/you_dont_need_uefi_to_install_haos_heres_a_simple/)
 - [Installation Zigbee2MQTT on Github](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt#installation)
+- [Installing PowerShell on Windows](https://aka.ms/PSWindows)
 
 ## L
 

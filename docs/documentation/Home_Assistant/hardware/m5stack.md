@@ -196,6 +196,8 @@ INFO Successful handshake with atom-echo @ 192.168.0.106 in 0.096s
 - [M5STACK ATOM ECHO Smart Speaker Development Kit](https://shop.m5stack.com/products/atom-echo-smart-speaker-dev-kit)
 - [Wyoming Protocol](https://www.home-assistant.io/integrations/wyoming/)
 - [Ready-Made Projects — ESPHome](https://esphome.io/projects/)
+- [home-assistant/esphome-firmware](https://git.sudo.is/home-assistant/esphome-firmware/src/branch/main/voice-assistant/m5stack-atom-echo.yaml)
+
 
 ### Troubleshooting
 !!! failure
