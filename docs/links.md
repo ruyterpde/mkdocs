@@ -16,6 +16,8 @@ This list is generated automatically, so it may be a little messy.
 
 - [CallMeBot Website](https://www.callmebot.com/)
 - [Chocolatey Node.js Package](https://community.chocolatey.org/packages/nodejs)
+- [CloudConvert account](https://cloudconvert.com/register)
+- [CloudConvert dashboard](https://cloudconvert.com/dashboard/api/v2/keys)
 - [Community Edition n8n](https://docs.n8n.io/hosting/community-edition-features/)
 - [Community Forum](https://community.home-assistant.io/)
 - [Community Themes and Custom Cards](https://community.home-assistant.io/c/themes)
@@ -108,12 +110,14 @@ This list is generated automatically, so it may be a little messy.
 ## N
 
 - [n8n Documentation](https://docs.n8n.io/)
+- [n8n Node CloudConvert on Github](https://github.com/cloudconvert/n8n-nodes-cloudconvert)
 - [n8n Official Docs](https://docs.n8n.io)
 - [NGINX Reverse Proxy Setup](https://nginx.org/en/docs/)
 - [Node.js Official Documentation](https://nodejs.org/en/docs/)
 
 ## O
 
+- [official CloudConvert API docs](https://cloudconvert.com/api/v2)
 - [Official Node.js website](https://nodejs.org/en)
 - [Official Python website](https://www.python.org/downloads/)
 - [Official Zigbee2MQTT Documentation](https://www.zigbee2mqtt.io/)
