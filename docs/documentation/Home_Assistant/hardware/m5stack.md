@@ -197,6 +197,7 @@ INFO Successful handshake with atom-echo @ 192.168.0.106 in 0.096s
 - [Wyoming Protocol](https://www.home-assistant.io/integrations/wyoming/)
 - [Ready-Made Projects — ESPHome](https://esphome.io/projects/)
 - [home-assistant/esphome-firmware](https://git.sudo.is/home-assistant/esphome-firmware/src/branch/main/voice-assistant/m5stack-atom-echo.yaml)
+- [fortuna/m5stack-atom-echo.yaml](https://gist.github.com/fortuna/7de464d15ef96f4bb11c25d7f630ce89)
 
 
 ### Troubleshooting
