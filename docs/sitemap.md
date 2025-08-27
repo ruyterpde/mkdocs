@@ -135,8 +135,14 @@ N66 --> N68
 N69["Links"]
 N70["Sitemap"]
 N71["Tutorials"]
-N72["Cloudconvert"]
+N72["All Public Functions"]
 N71 --> N72
+N73["Cloudconvert"]
+N71 --> N73
+N74["Falai"]
+N71 --> N74
+N75["Pixeldrain"]
+N71 --> N75
 click N1 "/"
 click N2 "/about/"
 click N3 "/blog/"
@@ -208,5 +214,8 @@ click N68 "/howto/powershell/product%20key/"
 click N69 "/links/"
 click N70 "/sitemap/"
 click N71 "/tutorials/"
-click N72 "/tutorials/cloudconvert/"
+click N72 "/tutorials/all_public_functions/"
+click N73 "/tutorials/cloudconvert/"
+click N74 "/tutorials/falai/"
+click N75 "/tutorials/pixeldrain/"
 ```

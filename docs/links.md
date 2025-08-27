@@ -16,8 +16,8 @@ This list is generated automatically, so it may be a little messy.
 
 - [CallMeBot Website](https://www.callmebot.com/)
 - [Chocolatey Node.js Package](https://community.chocolatey.org/packages/nodejs)
-- [CloudConvert account](https://cloudconvert.com/register)
-- [CloudConvert dashboard](https://cloudconvert.com/dashboard/api/v2/keys)
+- [Cloud Convert Dashboard](https://cloudconvert.com/dashboard/api/v2/keys)
+- [cloudconvert.com](https://cloudconvert.com/)
 - [Community Edition n8n](https://docs.n8n.io/hosting/community-edition-features/)
 - [Community Forum](https://community.home-assistant.io/)
 - [Community Themes and Custom Cards](https://community.home-assistant.io/c/themes)
@@ -38,7 +38,10 @@ This list is generated automatically, so it may be a little messy.
 
 ## F
 
+- [fal.ai](https://www.fal.ai/)
+- [fal.ai Official Documentation](https://docs.fal.ai/)
 - [Flask Web Framework](https://flask.palletsprojects.com/)
+- [fortuna/m5stack-atom-echo.yaml](https://gist.github.com/fortuna/7de464d15ef96f4bb11c25d7f630ce89)
 
 ## G
 
@@ -47,6 +50,7 @@ This list is generated automatically, so it may be a little messy.
 - [Getting started - Local Assist](https://www.home-assistant.io/voice_control/voice_remote_local_assistant/)
 - [Glances MQTT Integration](https://nicolargo.github.io/glances/mqtt.html)
 - [Glances Official Documentation](https://nicolargo.github.io/glances/)
+- [Google Style Docstring](https://google.github.io/styleguide/pyguide.html#pyguide-docstrings)
 
 ## H
 
@@ -75,7 +79,6 @@ This list is generated automatically, so it may be a little messy.
 - [HomeWizard P1 Meter](https://www.homewizard.com/nl/p1-meter)
 - [Hosting n8n](https://docs.n8n.io/hosting/)
 - [How To Update the Sonoff Dongle E to Ember firmware](https://www.youtube.com/watch?v=x1QeNPi6tK8)
-- [http://localhost:5000](http://localhost:5000)
 
 ## I
 
@@ -91,7 +94,6 @@ This list is generated automatically, so it may be a little messy.
 - [Let's Encrypt Guide](https://letsencrypt.org/)
 - [Llama.cpp Repository](https://github.com/ggerganov/llama.cpp)
 - [LOCAL VOICE CONTROL of Home Assistant with the M5Stack Atom Echo](https://www.youtube.com/watch?v=U2rykdQlSgA)
-- [localhost:11434](http://localhost:11434)
 
 ## M
 
@@ -103,6 +105,7 @@ This list is generated automatically, so it may be a little messy.
 - [Microsoft IIS Extensions](https://www.iis.net/downloads)
 - [MkDocs Official Documentation](https://www.mkdocs.org/)
 - [MkDocs-Material Documentation](https://squidfunk.github.io/mkdocs-material/)
+- [Models section](https://docs.fal.ai/models/)
 - [Mosquitto MQTT Broker](https://mosquitto.org/)
 - [Mosquitto Official Documentation](https://mosquitto.org/documentation/)
 - [MSYS2](https://www.msys2.org/)
@@ -110,14 +113,13 @@ This list is generated automatically, so it may be a little messy.
 ## N
 
 - [n8n Documentation](https://docs.n8n.io/)
-- [n8n Node CloudConvert on Github](https://github.com/cloudconvert/n8n-nodes-cloudconvert)
 - [n8n Official Docs](https://docs.n8n.io)
 - [NGINX Reverse Proxy Setup](https://nginx.org/en/docs/)
 - [Node.js Official Documentation](https://nodejs.org/en/docs/)
 
 ## O
 
-- [official CloudConvert API docs](https://cloudconvert.com/api/v2)
+- [Official Cloud Convert API documentation](https://cloudconvert.com/api/v2)
 - [Official Node.js website](https://nodejs.org/en)
 - [Official Python website](https://www.python.org/downloads/)
 - [Official Zigbee2MQTT Documentation](https://www.zigbee2mqtt.io/)
@@ -130,6 +132,7 @@ This list is generated automatically, so it may be a little messy.
 
 ## P
 
+- [PEP 8](https://peps.python.org/pep-0008/#function-and-variable-names)
 - [Privacy](https://ruyter.org/about/privacy)
 - [Pymdown Extensions Documentation](https://facelessuser.github.io/pymdown-extensions/)
 - [Python Markdown](https://python-markdown.github.io/)

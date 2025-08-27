@@ -70,7 +70,7 @@ This guide provides step-by-step instructions for installing a local and lightwe
     ```
 
     The first time, it will download the model (~4-7 GB).  
-    Your language model will now run locally via [localhost:11434](http://localhost:11434)  
+    Your language model will now run locally via http://localhost:11434
 
 6. **Run the Script**  
     A sample script is available [offline_assistent.py](offline_assistant.md). Make sure you have saved this script locally, e.g., as offline_assistent.py  
@@ -83,7 +83,7 @@ This guide provides step-by-step instructions for installing a local and lightwe
 7. **Test your installation**
     Then visit in your browser >
 
-    [http://localhost:5000](http://localhost:5000)
+    http://localhost:5000
 
 8. **Fine-tune or customize**  
     Modify prompts or parameters as needed to optimize model performance.
