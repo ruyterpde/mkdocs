@@ -73,7 +73,6 @@ This list is generated automatically, so it may be a little messy.
 - [Home Assistant Official Voice Documentation](https://www.home-assistant.io/voice_control/)
 - [Home Assistant Pipeline](https://www.youtube.com/watch?v=mVAwd_0Fheg)
 - [Home Assistant Template Sensors](https://www.home-assistant.io/integrations/template/)
-- [Home Assistant ZHA Integration](https://www.home-assistant.io/integrations/zha/)
 - [home-assistant/esphome-firmware](https://git.sudo.is/home-assistant/esphome-firmware/src/branch/main/voice-assistant/m5stack-atom-echo.yaml)
 - [HomeWizard P1 API Documentation](https://homewizard.com/api)
 - [HomeWizard P1 Meter](https://www.homewizard.com/nl/p1-meter)
@@ -166,5 +165,9 @@ This list is generated automatically, so it may be a little messy.
 
 ## Z
 
+- [ZHA Documentation](https://www.home-assistant.io/integrations/zha/)
 - [Zigbee Firmware Repository](https://github.com/Koenkk/Z-Stack-firmware)
+- [Zigbee Map Community Thread](https://community.home-assistant.io/t/zigbee-map-visualize-your-mesh-network/921489)
+- [Zigbee Map Releases](https://codeberg.org/dan-danache/ha-zigbee-map/releases)
+- [zigbee-map-panel.js](https://codeberg.org/dan-danache/ha-zigbee-map/raw/branch/master/custom_components/zigbee_map/panel/dist/zigbee-map-panel.js)
 

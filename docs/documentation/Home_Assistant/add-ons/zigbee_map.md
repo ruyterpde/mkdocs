@@ -37,38 +37,26 @@ Zigbee Map works with the following Home Assistant integrations:
 
 ## Installation
 
-### Using HACS
+### Manual Installation (Recommended)
 
-Zigbee Map is available via [HACS](https://hacs.xyz/):
+1. Download the panel script: [zigbee-map-panel.js](https://codeberg.org/dan-danache/ha-zigbee-map/raw/branch/master/custom_components/zigbee_map/panel/dist/zigbee-map-panel.js)
+2. Place it in the conf/www directory
+3. Add the following snippet to your configuration.yaml file:
 
-1. Open Home Assistant
-2. Navigate to **HACS > Integrations**
-3. Search for **Zigbee Map**
-4. Click **Install**
-5. Restart Home Assistant
-
-### Manual Installation
-
-Alternatively, clone the repository manually:
-
-'''sh
-git clone https://github.com/your-repo/zigbee-map
-'''
-
-Place it in your `custom_components` directory and restart Home Assistant.
+```yaml
+ panel_custom:
+   - name: zigbee-map-panel
+     url_path: zigbee-map
+     module_url: /local/zigbee-map-panel.js
+     sidebar_title: Zigbee Map
+     sidebar_icon: mdi:hub
+```
+4. Restart Home Assistant
+5. The Zigbee Map panel should now appear in your sidebar
 
 ---
 
 ## Configuration
-
-After installation, add the following to your `configuration.yaml`:
-
-'''yaml
-zigbee_map:
-  integration: zha  # or zigbee2mqtt
-'''
-
-Then restart Home Assistant and navigate to the Zigbee Map panel.
 
 ---
 
@@ -83,9 +71,7 @@ Once configured, Zigbee Map will generate a dynamic graph showing:
 
 ### Example Screenshot
 
-'''
-![Zigbee Map Example](https://community-assets.home-assistant.io/original/3X/1/2/1234567890abcdef.png)
-'''
+![Zigbee Map Example](../../../assets/images/zigbee_map.jpg)
 
 ---
 
